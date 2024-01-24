@@ -1,0 +1,16 @@
+.header-section {
+    background: url('https://wallpaperaccess.com/full/5651990.jpg') center/cover no-repeat;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0px; /* Adjust the padding as needed */
+    height: 450px;
+  }
+  .header-text {
+    font-size: 36px;
+    font-weight: bold;
+  }
+
+  .sub-header-text {
+    font-size: 24px;
+    margin-top: 20px;
+  }
